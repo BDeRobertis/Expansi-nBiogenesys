@@ -1,4 +1,4 @@
-# Expansi-nBiogenesys
+# ExpansionBiogenesys
 La empresa farmacéutica BIOGENESYS busca identificar las ubicaciones óptimas para la expansión de sus laboratorios, basándose en un análisis de datos de incidencia de COVID-19, tasas de vacunación y la disponibilidad de infraestructuras sanitarias. Su meta es optimizar la respuesta a los efectos de la pandemia y postpandemia con el fin de mejorar el acceso a vacunas.
 Como Data Analyst de este proyecto, debo realizar un estudio que ayudará a la estrategia de expansión en Latinoamérica, específicamente en los países de Argentina, Brasil, Chile, Colombia, México y Perú. La dirección ha propuesto hacer esta inversión para ubicar regiones y recolectar datos que sean de importancia para la toma de decisiones informadas. 
 Los objetivos son concretos y medibles:
