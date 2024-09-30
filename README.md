@@ -12,3 +12,5 @@ Los objetivos son concretos y medibles:
 
 ●	Desarrollar dashboards interactivos con visualizaciones eficientes, permitiendo explorar datos desde múltiples perspectivas para una toma de decisiones informada y estratégica.
 Se utilizarán los datos proporcionados para ofrecer insights valiosos sobre posibles ubicaciones estratégicas para futuros laboratorios y centros de vacunación. Este análisis de tendencias y demografía será fundamental para comprender el entorno del mercado en los países de interés.
+
+HERRAMIENTAS UTILIZADAS: SQL SERVER, PYTHON Y POWER BI. 
